@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="login_logo">Learning coding with zuri</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="list_view">Android ListView</string>
+    <string name="btn_text_1">ListView - 1</string>
+    <string name="btn_text_2">ListView - 2</string>
+    <string name="btn_text_3">ListView - 3</string>
+    <string name="text_1">ListView</string>
+
+    <string-array name="FruitsName">
+        <item name="fruit">Apple</item>
+        <item name="fruit">Banana</item>
+        <item name="fruit">Cherry</item>
+        <item name="fruit">Avocados</item>
+        <item name="fruit">Plum</item>
+        <item name="fruit">Guava</item>
+        <item name="fruit">Water Melon</item>
+        <item name="fruit">Mango</item>
+        <item name="fruit">Olive</item>
+        <item name="fruit">Orange</item>
+        <item name="fruit">Fig</item>
+        <item name="fruit">Paw-Paw</item>
+    </string-array>
+</resources>
